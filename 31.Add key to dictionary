@@ -1,0 +1,4 @@
+A={82:"Name",99:"ram",2:"dictionary",9:"Abhi"}
+print("current dictionary",A)
+A.update({5:"jai"})
+print("Updated dictionary:",A)
